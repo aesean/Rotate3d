@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="red500">#e51c23</color>
+    <color name="blue500">#5677fc</color>
+    <color name="cyan500">#00bcd4</color>
+    <color name="purple500">#9c27b0</color>
+
+    <color name="yellow500">#ffeb3b</color>
+    <color name="green500">#259b24</color>
+    <color name="indigo500">#3f51b5</color>
+    <color name="pink500">#e91e63</color>
+
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rotate3d</string>
+    <string name="view_animation">view_animation</string>
+    <string name="view_animator">view_animator</string>
+</resources>
